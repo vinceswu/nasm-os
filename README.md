@@ -1,7 +1,11 @@
-<h1 align="center">NasmOS</h1>
+<h1 align="center">Nasm OS</h1>
 <p align="center"><em>Barebones x86 Operating System</em></p>
 
+<div align="center">
+
 ![swappy-20241026-143109](https://github.com/user-attachments/assets/5429ea05-1624-49b4-af41-a0d588c971ff)
+
+</div>
   
 <p align="center">
   <a href="https://github.com/ecnivs/nasmos/stargazers">
