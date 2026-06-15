@@ -8,16 +8,16 @@
 </div>
   
 <p align="center">
-  <a href="https://github.com/ecnivs/nasmos/stargazers">
-    <img src="https://img.shields.io/github/stars/ecnivs/nasmos?style=flat-square">
+  <a href="https://github.com/vinceswu/nasm-os/stargazers">
+    <img src="https://img.shields.io/github/stars/vinceswu/nasm-os?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/nasmos/issues">
-    <img src="https://img.shields.io/github/issues/ecnivs/nasmos?style=flat-square">
+  <a href="https://github.com/vinceswu/nasm-os/issues">
+    <img src="https://img.shields.io/github/issues/vinceswu/nasm-os?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/nasmos/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ecnivs/nasmos?style=flat-square">
+  <a href="https://github.com/vinceswu/nasm-os/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vinceswu/nasm-os?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/languages/top/ecnivs/nasmos?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/vinceswu/nasm-os?style=flat-square">
 </p>
 
 ## Overview
